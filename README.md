@@ -8,7 +8,8 @@ I saw a meme where a programmer was using a keyboard that consisted of 4 buttons
 ### Creating the 3D Keyboard with Spline
 A glimpse into how I designed the 3D Binary Keyboard
 
-https://user-images.githubusercontent.com/70734779/193466140-a5b22fdb-495f-4b1b-b596-ba5b8839a786.mp4
+https://user-images.githubusercontent.com/70734779/193466269-4a58b0f2-7f00-4103-b107-134c7e11b5b5.mp4
+
 
 ### What did I learn? [ABOUT PROGRAMMING]
 - Spline; a design tool for 3D web browser experiences
